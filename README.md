@@ -1,1 +1,1 @@
-# diplom-unvino
+# This is my graduation project:)
